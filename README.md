@@ -31,3 +31,8 @@ This project is published for academic and research use. Please cite appropriate
 ---
 
 > Developed entirely on Android using Termux — no PC used.
+
+## Citation
+
+Shihan124. (2025). *PB6 / PD6 Twin Prime Filter v1.0.1* (Version V1.0.1). Zenodo.  
+DOI: [https://doi.org/10.5281/zenodo.15467255](https://doi.org/10.5281/zenodo.15467255)
